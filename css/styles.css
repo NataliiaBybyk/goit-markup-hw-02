@@ -23,14 +23,14 @@ body {
   font-family: 'Raleway', sans-serif;
   font-size: 18px;
   font-weight: 700;
-  line-height: 1.16;
+  line-height: 1.17;
   letter-spacing: 0.03em;
   text-transform: uppercase;
-  color: var(--NAVY-BLUE, #2e2f42);
+  color: var(--IRIS, #4d5ae5);
 }
 
-.web {
-  color: var(--IRIS, #4d5ae5);
+.studio {
+  color: var(--NAVY-BLUE, #2e2f42);
 }
 
 .menu-link {
@@ -158,6 +158,23 @@ body {
 }
 
 /* ===============================FOOTER STYLES=========================*/
+.page-footer {
+  background-color: var(--NAVY-BLUE, #2e2f42);
+}
+
+.logotype {
+  font-family: 'Raleway', sans-serif;
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 1.17;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  color: var(--IRIS, #4d5ae5);
+}
+
+.studio {
+  color: var(--NAVY-BLUE, #2e2f42);
+}
 
 .page-footer-text {
   font-size: 16px;
