@@ -60,7 +60,11 @@ body {
   color: #404bbf;
 }
 
-/* ===============================HYRO STYLES=========================*/
+/* ===============================HERO STYLES=========================*/
+
+.hero {
+  background: var(--NAVY-BLUE, #2e2f42);
+}
 
 .main-title {
   text-align: center;
@@ -103,6 +107,10 @@ body {
 }
 
 /* ===============================OUR TEAM  STYLES=========================*/
+.team {
+  background: var(--CLOUD, #f4f4fd);
+}
+
 .team-title {
   text-align: center;
   font-size: 36px;
@@ -111,6 +119,10 @@ body {
   letter-spacing: 0.02em;
   text-transform: capitalize;
   color: var(--NAVY-BLUE, #2e2f42);
+}
+
+.team-list {
+  background: #fff;
 }
 
 .team-list-fullname {
