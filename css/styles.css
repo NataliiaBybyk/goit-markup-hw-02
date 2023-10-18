@@ -121,8 +121,8 @@ body {
   color: var(--NAVY-BLUE, #2e2f42);
 }
 
-.team-list {
-  background: #fff;
+.team-list-item {
+  background-color: #ffffff;
 }
 
 .team-list-fullname {
@@ -184,8 +184,8 @@ body {
   color: var(--IRIS, #4d5ae5);
 }
 
-.studio {
-  color: var(--NAVY-BLUE, #2e2f42);
+.studio-footer {
+  color: #f4f4fd;
 }
 
 .page-footer-text {
